@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+
+        for (int j = 0; j == 80; j++)
+        {
+
+        }
+    }
+}
